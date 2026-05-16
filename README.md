@@ -1,5 +1,14 @@
-# 💫 About Me:
-i am Parag Debnath currently learning python and interested in ml , nlp and llm<br>python , llm,ds,ml
+# 🌙 About Me:
+
+I’m a passionate beginner in the world of Artificial Intelligence and Machine Learning, currently learning Python and building projects to improve my skills every day. Curious about technology, problem-solving, and innovation, I enjoy exploring how AI can shape the future.
+
+💻 Interests: AI/ML, Python, Web Development, Open Source
+🚀 Currently Learning: Python, Machine Learning, Prompt Engineering
+🛠️ Tools & Technologies: VS Code, Git/GitHub, Python, Canva
+🌱 Goal: To become a skilled AI Engineer and build impactful projects
+🤝 Open To: Collaborations, coding friends, and tech communities
+
+⚡ “Started with curiosity, continuing with consistency.” 🍂
 
 
 ## 🌐 Socials:
