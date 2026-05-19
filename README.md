@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Parag%20Debnath&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Ai%20Enginner&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Parag-debnath">
-    <img src="https://komarev.com/ghpvc/?username=Parag-debnath&label=Profile%20views&color=00FFFF&style=flat-square" alt="Parag-debnath's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - 💻 Interests: AI/ML, Python, Web Development, Open Source
 - 🚀 Currently Learning: Python, Machine Learning, Prompt Engineering
@@ -14,10 +8,8 @@
 - 🤝 Open To: Collaborations, coding friends, and tech communities
 - ⚡ “Started with curiosity, continuing with consistency.” 🍂
 
-
 ## 🧠 My Focus Areas
 - Ai/ML Research
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
