@@ -25,14 +25,6 @@
 </p>
 
 
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />
-
 ![Top language](https://stats.pphat.top/languages?username=Parag-debnath)
 <br/>
 
