@@ -33,16 +33,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />
 
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-
-
 ![Top language](https://stats.pphat.top/languages?username=Parag-debnath)
 <br/>
 
